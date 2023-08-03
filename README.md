@@ -1,0 +1,2 @@
+# fastapiproject
+project for practice
